@@ -10,7 +10,7 @@ const videoData = [
   {
     id: 2,
     title: "Travel Video",
-    imageUrl: "/assets/images/politics6.jpg",
+    imageUrl: "../assets/images/politics6.jpg",
   },
 //   {
 //     id: 3,

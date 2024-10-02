@@ -6,37 +6,37 @@ const MostReadableContent = () => {
       id: 1,
       title: "Understanding React",
       description: "Elections 2024: Live updates Trump set to face off in first debate tomorrow",
-      imageUrl: "/images/react.jpg",
+      imageUrl: "../images/react.jpg",
     },
     {
       id: 2,
       title: "JavaScript ES6 Features",
       description: "Elections 2024: Live updates Trump set to face off in first debate tomorrow",
-      imageUrl: "/images/javascript.jpg",
+      imageUrl: "../images/javascript.jpg",
     },
     {
       id: 3,
       title: "CSS Grid Layout",
       description: "Elections 2024: Live updates Trump set to face off in first debate tomorrow",
-      imageUrl: "/images/css-grid.jpg",
+      imageUrl: "../images/css-grid.jpg",
     },
     {
       id: 4,
       title: "Node.js for Beginners",
       description: "Elections 2024: Live updates Trump set to face off in first debate tomorrow",
-      imageUrl: "/images/node.jpg",
+      imageUrl: "../images/node.jpg",
     },
     {
       id: 5,
       title: "Web Accessibility",
       description: "Elections 2024: Live updates Trump set to face off in first debate tomorrow",
-      imageUrl: "/images/accessibility.jpg",
+      imageUrl: "../images/accessibility.jpg",
     },
     {
       id: 6,
       title: "React Hooks Explained",
       description: "Elections 2024: Live updates Trump set to face off in first debate tomorrow",
-      imageUrl: "/images/hooks.jpg",
+      imageUrl: "../images/hooks.jpg",
     },
   ];
 

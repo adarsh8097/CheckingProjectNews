@@ -10,7 +10,7 @@ const videoData = [
   {
     id: 2,
     title: "Travel Video",
-    imageUrl: "/assets/images/sport10.webp",
+    imageUrl: "../assets/images/sport10.webp",
   },
 ];
 
