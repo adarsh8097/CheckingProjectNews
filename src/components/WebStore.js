@@ -9,55 +9,55 @@ const cardData = [
     id: 1,
     title: "Mountain Adventure",
     description: "Explore the majestic mountains and enjoy breathtaking views.",
-    image: "../assets/images/sport1.webp"
+    image: "../Assets/images/sport1.webp"
   },
   {
     id: 2,
     title: "Beach Getaway",
     description: "Relax by the sea and soak up the sun on a tropical beach.",
-    image: "../assets/images/sport8.webp"
+    image: "../Assets/images/sport8.webp"
   },
   {
     id: 3,
     title: "City Escape",
     description: "Discover the vibrant energy of a bustling cityscape.",
-    image: "../assets/images/sport10.webp"
+    image: "../Assets/images/sport10.webp"
   },
   {
     id: 4,
     title: "Desert Safari",
     description: "Experience the thrill of a desert adventure and dunes.",
-    image: "../assets/images/sport6.jpg"
+    image: "../Assets/images/sport6.jpg"
   },
   {
     id: 5,
     title: "Forest Retreat",
     description: "Reconnect with nature in a peaceful forest environment.",
-    image: "../assets/images/sport7.jpg"
+    image: "../Assets/images/sport7.jpg"
   },
   {
     id: 6,
     title: "Forest Retreat",
     description: "Reconnect with nature in a peaceful forest environment.",
-    image: "../assets/images/politics6.jpg"
+    image: "../Assets/images/politics6.jpg"
   },
   {
     id: 7,
     title: "Desert Safari",
     description: "Experience the thrill of a desert adventure and dunes.",
-    image: "../assets/images/sport3.webp"
+    image: "../Assets/images/sport3.webp"
   },
   {
     id: 8,
     title: "Forest Retreat",
     description: "Reconnect with nature in a peaceful forest environment.",
-    image: "../assets/images/sport10.webp"
+    image: "../Assets/images/sport10.webp"
   },
   {
     id: 9,
     title: "Forest Retreat",
     description: "Reconnect with nature in a peaceful forest environment.",
-    image: "../assets/images/politics4.jpg"
+    image: "../Assets/images/politics4.jpg"
   }
 ];
 

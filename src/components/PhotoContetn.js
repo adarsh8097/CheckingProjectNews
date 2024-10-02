@@ -5,12 +5,12 @@ const videoData = [
   {
     id: 1,
     title: "Nature Video",
-    imageUrl: "../assets/images/sport3.webp", // Replace with your actual image path
+    imageUrl: "../Assets/images/sport3.webp", // Replace with your actual image path
   },
   {
     id: 2,
     title: "Travel Video",
-    imageUrl: "../assets/images/sport10.webp",
+    imageUrl: "../Assets/images/sport10.webp",
   },
 ];
 
